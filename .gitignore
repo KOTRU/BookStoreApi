@@ -1,0 +1,8 @@
+/BookApi.Infrastructure/bookstore-497cc-firebase-adminsdk-n7ikb-91821b33e8.json
+/BookApi.Infrastructure/settings.json
+*.suo
+*.user
+.idea
+bin
+obj
+packages

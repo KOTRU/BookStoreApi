@@ -1,0 +1,11 @@
+services:
+  bookApi:
+    image: bookapi
+    command: dotnet BookApi.dll
+    working_dir: /app
+    ports:
+      - '80:80'
+      - '443:443'
+ 
+volumes:
+  my-db:
